@@ -1,0 +1,5931 @@
+
+    {
+  "msUS": [
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-November 17, 2019",
+    "state": "California",
+    "city": "Fresno",
+    "Address": "E Lamona Ave and N Peach Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 8,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+
+
+
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-November 16, 2019",
+    "state": "California",
+    "city": "San Diego",
+    "Address": "2152 Flintridge Dr",
+    "total_number_of_fatalities": 5,
+    "number_of_victims_injured": 1,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-November 14, 2019",
+    "state": "California",
+    "city": "Santa Clarita",
+    "Address": "21900 Centurion Way",
+    "total_number_of_fatalities": 3,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-November 11, 2019",
+    "state": "Florida",
+    "city": "Belle Glade",
+    "Address": "SW 7th St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-November 10, 2019",
+    "state": "Missouri",
+    "city": "Kansas City",
+    "Address": "4704 Independence Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-November 10, 2019",
+    "state": "Tennessee",
+    "city": "Memphis",
+    "Address": "2080 E. Brooks Rd",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-November 10, 2019",
+    "state": "Arkansas",
+    "city": "Little Rock",
+    "Address": "3000 block of W 12th St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-November 9, 2019",
+    "state": "Georgia",
+    "city": "Vidalia",
+    "Address": "Wiggins St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-November 9, 2019",
+    "state": "Michigan",
+    "city": "Detroit",
+    "Address": "3800 block of E McNichols Rd",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-November 8, 2019",
+    "state": "North Carolina",
+    "city": "Raleigh",
+    "Address": "503 Bragg St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-November 7, 2019",
+    "state": "Georgia",
+    "city": "Conyers",
+    "Address": "1800 block of Green St",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-November 4, 2019",
+    "state": "Texas",
+    "city": "Houston",
+    "Address": "5000 block of Northridge Dr",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-November 3, 2019",
+    "state": "Ohio",
+    "city": "Toledo",
+    "Address": "600 block of Magnolia St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-November 3, 2019",
+    "state": "Texas",
+    "city": "Nacogdoches",
+    "Address": "Sandyland Cir and CR 823",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-November 2, 2019",
+    "state": "Louisiana",
+    "city": "Baton Rouge",
+    "Address": "137 Taylor St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-November 2, 2019",
+    "state": "Michigan",
+    "city": "Detroit",
+    "Address": "7000 block of E. Kirby",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-November 1, 2019",
+    "state": "Arizona",
+    "city": "Tolleson",
+    "Address": "2434 S 86th Ln",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-November 1, 2019",
+    "state": "Texas",
+    "city": "San Angelo",
+    "Address": "1616 S Chadbourne St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 31, 2019",
+    "state": "California",
+    "city": "Orinda",
+    "Address": "114 Lucille Way",
+    "total_number_of_fatalities": 5,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 30, 2019",
+    "state": "Pennsylvania",
+    "city": "Philadelphia",
+    "Address": "5026 Walton Ave",
+    "total_number_of_fatalities": 4,
+    "number_of_victims_injured": 0,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 29, 2019",
+    "state": "California",
+    "city": "Long Beach",
+    "Address": "2709 E 7th St",
+    "total_number_of_fatalities": 3,
+    "number_of_victims_injured": 9,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 29, 2019",
+    "state": "Maryland",
+    "city": "Baltimore",
+    "Address": "4700 block of Liberty Heights Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 28, 2019",
+    "state": "Maryland",
+    "city": "Baltimore",
+    "Address": "4160 Pimlico Rd",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 27, 2019",
+    "state": "Michigan",
+    "city": "Detroit",
+    "Address": "East Outer Dr and Helen St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 27, 2019",
+    "state": "Michigan",
+    "city": "Lansing",
+    "Address": "Balfour Dr and W Miller Rd",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 26, 2019",
+    "state": "Texas",
+    "city": "Greenville",
+    "Address": "2275 US-380",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 6,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 24, 2019",
+    "state": "Oklahoma",
+    "city": "Oklahoma City",
+    "Address": "1900 block of NW 12th St",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 22, 2019",
+    "state": "Oklahoma",
+    "city": "Oklahoma City (Midwest City)",
+    "Address": "7020 E Green Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 21, 2019",
+    "state": "South Carolina",
+    "city": "Sumter",
+    "Address": "29 Wesmark Blvd",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 20, 2019",
+    "state": "Texas",
+    "city": "Port Arthur",
+    "Address": "1100 block of Vicksburg Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 19, 2019",
+    "state": "Texas",
+    "city": "El Paso",
+    "Address": "3812 Truman Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 19, 2019",
+    "state": "Pennsylvania",
+    "city": "Duquesne",
+    "Address": "600 block of Priscilla Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 15, 2019",
+    "state": "Ohio",
+    "city": "Columbus",
+    "Address": "1600 block of Manchester Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 13, 2019",
+    "state": "Pennsylvania",
+    "city": "Philadelphia",
+    "Address": "W Clearfield St and N 8th St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 6,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 13, 2019",
+    "state": "Ohio",
+    "city": "Akron",
+    "Address": "Main St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 12, 2019",
+    "state": "New York",
+    "city": "Brooklyn",
+    "Address": "75 Utica Ave",
+    "total_number_of_fatalities": 4,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 12, 2019",
+    "state": "Pennsylvania",
+    "city": "Philadelphia",
+    "Address": "700 block of W Russell St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 12, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "6733 W Irving Park Rd",
+    "total_number_of_fatalities": 5,
+    "number_of_victims_injured": 0,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 12, 2019",
+    "state": "Maryland",
+    "city": "Baltimore",
+    "Address": "800 block of W Lexington St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 12, 2019",
+    "state": "Michigan",
+    "city": "Eastpointe",
+    "Address": "15163 E 10 Mile Rd",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 10, 2019",
+    "state": "Florida",
+    "city": "Tampa",
+    "Address": "5410 N Falkenburg Rd",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 10, 2019",
+    "state": "Pennsylvania",
+    "city": "Philadelphia",
+    "Address": "900 block of S 5th St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 9, 2019",
+    "state": "Massachusetts",
+    "city": "Lowell",
+    "Address": "149 Ennell Street",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 9, 2019",
+    "state": "Maryland",
+    "city": "Baltimore",
+    "Address": "1600 block of W North Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 7, 2019",
+    "state": "Massachusetts",
+    "city": "Abington",
+    "Address": "135 Centre Ave",
+    "total_number_of_fatalities": 5,
+    "number_of_victims_injured": 0,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 6, 2019",
+    "state": "Kansas",
+    "city": "Kansas City",
+    "Address": "1013 Central Ave",
+    "total_number_of_fatalities": 4,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 6, 2019",
+    "state": "Colorado",
+    "city": "Denver",
+    "Address": "7100 block of Ruth Way",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 6, 2019",
+    "state": "Indiana",
+    "city": "Evansville",
+    "Address": "1127 Chestnut St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 5, 2019",
+    "state": "Missouri",
+    "city": "Saint Louis",
+    "Address": "10035 Crown Point Dr",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 3, 2019",
+    "state": "North Carolina",
+    "city": "Roxboro",
+    "Address": "700 South Foushee St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 3, 2019",
+    "state": "Missouri",
+    "city": "Marshall",
+    "Address": "S Olson Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-October 1, 2019",
+    "state": "Missouri",
+    "city": "Saint Louis",
+    "Address": "Leonor K. Sullivan Blvd and Poplar St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 29, 2019",
+    "state": "Illinois",
+    "city": "Round Lake (Round Lake Park)",
+    "Address": "500 block of Fairlawn Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 29, 2019",
+    "state": "Wisconsin",
+    "city": "Milwaukee",
+    "Address": "1500 block of N 29th St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 29, 2019",
+    "state": "Florida",
+    "city": "Jacksonville",
+    "Address": "2200 block of Clemente Dr",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 29, 2019",
+    "state": "Kansas",
+    "city": "Claflin",
+    "Address": "1500 block of NE 100th Rd",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 29, 2019",
+    "state": "Texas",
+    "city": "Beaumont",
+    "Address": "4100 block of Highland Ave",
+    "total_number_of_fatalities": 4,
+    "number_of_victims_injured": 0,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 24, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "2000 block of South Hoyne Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 23, 2019",
+    "state": "Indiana",
+    "city": "Gary",
+    "Address": "1600 block of Connecticut St",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 22, 2019",
+    "state": "Missouri",
+    "city": "Kansas City",
+    "Address": "2111 Television Plaza",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 21, 2019",
+    "state": "Louisiana",
+    "city": "New Orleans",
+    "Address": "Poland Ave and St. Claude Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 21, 2019",
+    "state": "Ohio",
+    "city": "Cleveland",
+    "Address": "3616 East 144th St",
+    "total_number_of_fatalities": 4,
+    "number_of_victims_injured": 0,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 21, 2019",
+    "state": "South Carolina",
+    "city": "Lancaster",
+    "Address": "1399 Old Charlotte Rd",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 8,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 21, 2019",
+    "state": "Indiana",
+    "city": "Indianapolis",
+    "Address": "101 W Maryland St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 6,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 20, 2019",
+    "state": "Louisiana",
+    "city": "New Orleans",
+    "Address": "Canal Blvd and City Park Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 19, 2019",
+    "state": "District of Columbia",
+    "city": "Washington",
+    "Address": "1300 block of Columbia Rd NW",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 18, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "4200 block of W Madison St",
+    "total_number_of_fatalities": 3,
+    "number_of_victims_injured": 1,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 18, 2019",
+    "state": "California",
+    "city": "Wilmington",
+    "Address": "800 block of Bayview Ave",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 16, 2019",
+    "state": "Wyoming",
+    "city": "Cheyenne",
+    "Address": "3436 E. 11th St",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 14, 2019",
+    "state": "Missouri",
+    "city": "Saint Louis",
+    "Address": "5200 block of Tennessee Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 14, 2019",
+    "state": "California",
+    "city": "Oakland",
+    "Address": "38th Ave and MacArthur Blvd",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 14, 2019",
+    "state": "Georgia",
+    "city": "Lagrange",
+    "Address": "1400 block of Elm St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 12, 2019",
+    "state": "New Mexico",
+    "city": "Albuquerque",
+    "Address": "1919 Ladera Dr NW",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 12, 2019",
+    "state": "New Mexico",
+    "city": "Albuquerque",
+    "Address": "1028 Lura Pl SW",
+    "total_number_of_fatalities": 4,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 10, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "2200 block of W Maypole Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 8, 2019",
+    "state": "South Carolina",
+    "city": "Sumter",
+    "Address": "1083 Broad St",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 8, 2019",
+    "state": "Louisiana",
+    "city": "Alexandria",
+    "Address": "2900 block of Cypress St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 7, 2019",
+    "state": "North Carolina",
+    "city": "Whiteville",
+    "Address": "Brittney Lane",
+    "total_number_of_fatalities": 3,
+    "number_of_victims_injured": 1,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 4, 2019",
+    "state": "Florida",
+    "city": "Jacksonville",
+    "Address": "400 W 62nd St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 4, 2019",
+    "state": "Louisiana",
+    "city": "Marrero",
+    "Address": "3044 Sorbonne Dr",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 2, 2019",
+    "state": "Alabama",
+    "city": "Elkmont",
+    "Address": "25019 Ridge Road",
+    "total_number_of_fatalities": 5,
+    "number_of_victims_injured": 0,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 2, 2019",
+    "state": "North Carolina",
+    "city": "Greensboro",
+    "Address": "5528 W Market St",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 2, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "6200 block of S King Dr",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 1, 2019",
+    "state": "Connecticut",
+    "city": "Hartford",
+    "Address": "80 Edgewood St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 1, 2019",
+    "state": "North Carolina",
+    "city": "Rocky Mount",
+    "Address": "521 Country Club Road",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 1, 2019",
+    "state": "Alabama",
+    "city": "Valley",
+    "Address": "502 Boulevard",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 7,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-September 1, 2019",
+    "state": "Ohio",
+    "city": "Toledo",
+    "Address": "3257 Stickney Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 31, 2019",
+    "state": "Texas",
+    "city": "Odessa",
+    "Address": "8250 TX 191",
+    "total_number_of_fatalities": 8,
+    "number_of_victims_injured": 23,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 31, 2019",
+    "state": "Pennsylvania",
+    "city": "Philadelphia",
+    "Address": "4600 block of 4th St",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 31, 2019",
+    "state": "North Carolina",
+    "city": "Charlotte",
+    "Address": "10035 Dabney Dr",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 31, 2019",
+    "state": "South Carolina",
+    "city": "Moncks Corner",
+    "Address": "336 Maplewood Rd",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 31, 2019",
+    "state": "Maryland",
+    "city": "Baltimore",
+    "Address": "900 block of N Monroe St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 31, 2019",
+    "state": "Maryland",
+    "city": "Frederick",
+    "Address": "600 block of N Market St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 31, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "7100 block of S Paulina St",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 30, 2019",
+    "state": "Alabama",
+    "city": "Mobile",
+    "Address": "1621 Virginia St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 6,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 30, 2019",
+    "state": "Maryland",
+    "city": "Baltimore",
+    "Address": "1600 block of E 29th St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 29, 2019",
+    "state": "Maryland",
+    "city": "Baltimore",
+    "Address": "2500 block of E Monument St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 25, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "8200 block of S Maryland Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 25, 2019",
+    "state": "New Mexico",
+    "city": "Hobbs",
+    "Address": "1700 block of East Bond St",
+    "total_number_of_fatalities": 3,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 24, 2019",
+    "state": "Maryland",
+    "city": "Temple Hills (Camp Springs)",
+    "Address": "6200 block of Maxwell Dr",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 7,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 24, 2019",
+    "state": "Massachusetts",
+    "city": "Lynn",
+    "Address": "Warren Street",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 23, 2019",
+    "state": "Texas",
+    "city": "Houston",
+    "Address": "4900 block of Southwind St",
+    "total_number_of_fatalities": 3,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 23, 2019",
+    "state": "Georgia",
+    "city": "Dublin",
+    "Address": "200 Riverview Park Dr",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 23, 2019",
+    "state": "Missouri",
+    "city": "Saint Louis",
+    "Address": "1122 Union Blvd",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 22, 2019",
+    "state": "South Carolina",
+    "city": "Columbia",
+    "Address": "851 Bush River Rd",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 22, 2019",
+    "state": "California",
+    "city": "Los Angeles",
+    "Address": "300 block of West Fifth St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 20, 2019",
+    "state": "Georgia",
+    "city": "Atlanta",
+    "Address": "111 James P Brawley Dr SW",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 18, 2019",
+    "state": "Missouri",
+    "city": "Kansas City",
+    "Address": "770 W 47th St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 17, 2019",
+    "state": "Texas",
+    "city": "Houston",
+    "Address": "12500 block of Mylla St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 6,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 15, 2019",
+    "state": "Alabama",
+    "city": "Montgomery",
+    "Address": "847 N University Dr",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 15, 2019",
+    "state": "Pennsylvania",
+    "city": "Philadelphia",
+    "Address": "5800 block of N 15th St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 14, 2019",
+    "state": "Pennsylvania",
+    "city": "Philadelphia",
+    "Address": "3716 N 15th St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 6,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 13, 2019",
+    "state": "Washington",
+    "city": "Tacoma",
+    "Address": "E 38th St and E Roosevelt Ave",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 12, 2019",
+    "state": "Mississippi",
+    "city": "Greenwood",
+    "Address": "200 Young St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 11, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "3500 block of W Lake St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 6,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 10, 2019",
+    "state": "Virginia",
+    "city": "Richmond",
+    "Address": "6346 Midlothian Turnpike",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 10, 2019",
+    "state": "California",
+    "city": "San Francisco",
+    "Address": "1100 Fillmore St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 9, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "7300 block of S Artesian Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 7, 2019",
+    "state": "Missouri",
+    "city": "Saint Louis",
+    "Address": "4900 block of Plover Ave",
+    "total_number_of_fatalities": 3,
+    "number_of_victims_injured": 1,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 5, 2019",
+    "state": "New York",
+    "city": "Brooklyn",
+    "Address": "216 Buffalo Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 4, 2019",
+    "state": "Louisiana",
+    "city": "Lake Charles",
+    "Address": "110 Pryce St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 4, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "1800 S Kildare Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 7,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 4, 2019",
+    "state": "Tennessee",
+    "city": "Memphis",
+    "Address": "443 E Shelby Dr",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 4, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "2900 block of W Roosevelt Rd",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 7,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 4, 2019",
+    "state": "Ohio",
+    "city": "Dayton",
+    "Address": "419 E 5th St",
+    "total_number_of_fatalities": 10,
+    "number_of_victims_injured": 17,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 3, 2019",
+    "state": "Texas",
+    "city": "El Paso",
+    "Address": "7101 Gateway Blvd",
+    "total_number_of_fatalities": 22,
+    "number_of_victims_injured": 24,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-August 2, 2019",
+    "state": "Virginia",
+    "city": "Suffolk",
+    "Address": "200 block of N Broad St",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 30, 2019",
+    "state": "Ohio",
+    "city": "Columbus",
+    "Address": "1280 E Long St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 28, 2019",
+    "state": "California",
+    "city": "Gilroy",
+    "Address": "7050 Miller Ave",
+    "total_number_of_fatalities": 4,
+    "number_of_victims_injured": 17,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 28, 2019",
+    "state": "Pennsylvania",
+    "city": "Philadelphia",
+    "Address": "2600 block of Carroll St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 28, 2019",
+    "state": "Wisconsin",
+    "city": "Chippewa Falls",
+    "Address": "16964 54th Ave",
+    "total_number_of_fatalities": 5,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 28, 2019",
+    "state": "District of Columbia",
+    "city": "Washington",
+    "Address": "637 T St NW",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 28, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "3938 W Roosevelt Rd",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 27, 2019",
+    "state": "Kansas",
+    "city": "Wichita",
+    "Address": "505 N Rock Rd",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 27, 2019",
+    "state": "New York",
+    "city": "Brooklyn",
+    "Address": "1555 Linden Blvd",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 11,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 26, 2019",
+    "state": "Washington",
+    "city": "Kennewick",
+    "Address": "E 10th Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 25, 2019",
+    "state": "California",
+    "city": "Canoga Park",
+    "Address": "21901 Roscoe Boulevard",
+    "total_number_of_fatalities": 4,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 21, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "3900 block of Roosevelt Rd",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 21, 2019",
+    "state": "District of Columbia",
+    "city": "Washington",
+    "Address": "2300 block of 15th St NE",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 20, 2019",
+    "state": "Pennsylvania",
+    "city": "Clairton",
+    "Address": "501 Waddell Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 20, 2019",
+    "state": "Maryland",
+    "city": "Baltimore",
+    "Address": "2800 block of Boarman Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 20, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "2401 N Lake Shore Dr",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 7,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 18, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "3427 W Fulton Blvd",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 17, 2019",
+    "state": "Texas",
+    "city": "Lubbock",
+    "Address": "N Elder Ave and E Colgate St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 16, 2019",
+    "state": "Texas",
+    "city": "San Antonio",
+    "Address": "6989 San Pedro Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 15, 2019",
+    "state": "Georgia",
+    "city": "Atlanta",
+    "Address": "1572 Hardee St NE",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 14, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "4600 block of W Erie St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 13, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "7900 block of S Loomis Blvd",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 13, 2019",
+    "state": "Pennsylvania",
+    "city": "Philadelphia",
+    "Address": "5433 Lansdowne Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 7,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 11, 2019",
+    "state": "Texas",
+    "city": "Houston",
+    "Address": "5901 Royal Palms St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 8, 2019",
+    "state": "District of Columbia",
+    "city": "Washington",
+    "Address": "3900 Martin Luther King Jr Ave SW",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 7, 2019",
+    "state": "Michigan",
+    "city": "Flint",
+    "Address": "Clio Rd and Myrtle St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 6,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 7, 2019",
+    "state": "Missouri",
+    "city": "Saint Louis",
+    "Address": "N Tucker Blvd and Convention Plaza",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 7, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "5600 block of S Paulina St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 7, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "600 block of W 61st Pl",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 7, 2019",
+    "state": "New Mexico",
+    "city": "Albuquerque",
+    "Address": "211 Gold Ave SW",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 6, 2019",
+    "state": "California",
+    "city": "San Jose",
+    "Address": "3036 Quinto Way",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 6, 2019",
+    "state": "Missouri",
+    "city": "Saint Louis",
+    "Address": "1921 Chambers Rd",
+    "total_number_of_fatalities": 5,
+    "number_of_victims_injured": 0,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 5, 2019",
+    "state": "Massachusetts",
+    "city": "Boston",
+    "Address": "Maple St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 6,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 5, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "1600 block of E 67th St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 5, 2019",
+    "state": "Nevada",
+    "city": "Reno",
+    "Address": "600 block of Spokane St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 5, 2019",
+    "state": "New York",
+    "city": "Brooklyn",
+    "Address": "Elton St and Belmont Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 4, 2019",
+    "state": "Illinois",
+    "city": "Rockford",
+    "Address": "1100 block of Preston St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 4, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "800 block of N Homan Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 4, 2019",
+    "state": "California",
+    "city": "Los Angeles",
+    "Address": "1900 block of Adair St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 4, 2019",
+    "state": "California",
+    "city": "Fresno",
+    "Address": "4700 block of E Hamilton Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 3, 2019",
+    "state": "Texas",
+    "city": "Katy",
+    "Address": "5507 Everhart Manor Ln",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 2, 2019",
+    "state": "Missouri",
+    "city": "Saint Louis (Wellston)",
+    "Address": "6250 Page Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-July 1, 2019",
+    "state": "Maryland",
+    "city": "Baltimore",
+    "Address": "1200 block of N Luzerne Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 30, 2019",
+    "state": "California",
+    "city": "Oakland",
+    "Address": "3000 block of Brookdale Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 30, 2019",
+    "state": "California",
+    "city": "Yucaipa",
+    "Address": "12700 block of California St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 30, 2019",
+    "state": "Texas",
+    "city": "Dallas",
+    "Address": "3535 Munger Ave",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 30, 2019",
+    "state": "New York",
+    "city": "Bay Shore",
+    "Address": "Farragut Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 6,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 29, 2019",
+    "state": "Connecticut",
+    "city": "Hartford",
+    "Address": "Judson St and Martin St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 29, 2019",
+    "state": "Louisiana",
+    "city": "Gray",
+    "Address": "2700 block of W Park Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 29, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "2400 block of W Jackson Blvd",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 29, 2019",
+    "state": "Louisiana",
+    "city": "Baton Rouge",
+    "Address": "7132 Florida Blvd",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 7,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 28, 2019",
+    "state": "New Jersey",
+    "city": "Paterson",
+    "Address": "50 block of Jefferson St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 28, 2019",
+    "state": "Connecticut",
+    "city": "Hamden",
+    "Address": "937 Choate Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 28, 2019",
+    "state": "Georgia",
+    "city": "Atlanta",
+    "Address": "Ira St and Bass St SW",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 7,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 28, 2019",
+    "state": "New Jersey",
+    "city": "Jersey City",
+    "Address": "167 Armstrong Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 28, 2019",
+    "state": "Minnesota",
+    "city": "Saint Paul",
+    "Address": "909 Desoto St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 27, 2019",
+    "state": "Georgia",
+    "city": "Atlanta",
+    "Address": "600 block of Parkway Dr",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 7,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 26, 2019",
+    "state": "Ohio",
+    "city": "Akron",
+    "Address": "900 block of Rowe St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 26, 2019",
+    "state": "Wisconsin",
+    "city": "Milwaukee",
+    "Address": "2800 block of N 34th St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 23, 2019",
+    "state": "California",
+    "city": "La Jolla",
+    "Address": "7500 block of Draper Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 23, 2019",
+    "state": "California",
+    "city": "San Jose",
+    "Address": "568 Habbitts Court",
+    "total_number_of_fatalities": 5,
+    "number_of_victims_injured": 0,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 23, 2019",
+    "state": "Indiana",
+    "city": "South Bend",
+    "Address": "1150 E Mishawaka Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 10,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 23, 2019",
+    "state": "Ohio",
+    "city": "Columbus",
+    "Address": "1767 Genessee Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 23, 2019",
+    "state": "South Carolina",
+    "city": "Abbeville",
+    "Address": "1108 Cambridge St",
+    "total_number_of_fatalities": 3,
+    "number_of_victims_injured": 1,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 22, 2019",
+    "state": "Virginia",
+    "city": "Hampton",
+    "Address": "1st St and E Pembroke Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 22, 2019",
+    "state": "Pennsylvania",
+    "city": "Philadelphia",
+    "Address": "2400 block of Moore St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 22, 2019",
+    "state": "Maryland",
+    "city": "Baltimore",
+    "Address": "800 block of N Port St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 21, 2019",
+    "state": "Michigan",
+    "city": "Saginaw",
+    "Address": "1506 N Charles St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 21, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "6300 block of S King Dr",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 21, 2019",
+    "state": "California",
+    "city": "Santa Maria",
+    "Address": "519  West Taylor St",
+    "total_number_of_fatalities": 5,
+    "number_of_victims_injured": 0,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 21, 2019",
+    "state": "California",
+    "city": "Richmond",
+    "Address": "700 block of 14th St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 20, 2019",
+    "state": "Pennsylvania",
+    "city": "Allentown",
+    "Address": "343 Hamilton St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 10,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 18, 2019",
+    "state": "New Jersey",
+    "city": "Newark",
+    "Address": "700 block of Dr Martin Luther King Jr Blvd",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 17, 2019",
+    "state": "Texas",
+    "city": "San Antonio",
+    "Address": "E Market St and Tower of the Americas Way",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 17, 2019",
+    "state": "Tennessee",
+    "city": "Memphis",
+    "Address": "2872 Coach Dr",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 16, 2019",
+    "state": "Pennsylvania",
+    "city": "Philadelphia",
+    "Address": "2910 S 70th St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 16, 2019",
+    "state": "Kentucky",
+    "city": "Louisville",
+    "Address": "Dixie Highway and Ormsby Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 6,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 16, 2019",
+    "state": "Iowa",
+    "city": "Des Moines",
+    "Address": "1200 block of Sampson St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 6,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 15, 2019",
+    "state": "Louisiana",
+    "city": "Shreveport",
+    "Address": "2500 block of Hollywood Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 12, 2019",
+    "state": "North Carolina",
+    "city": "Charlotte",
+    "Address": "305 N Graham St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 11, 2019",
+    "state": "Colorado",
+    "city": "Aurora",
+    "Address": "12500 block of E Kansas Pl",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 11, 2019",
+    "state": "Georgia",
+    "city": "Savannah",
+    "Address": "6900 Block of Damascus Rd",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 9, 2019",
+    "state": "Ohio",
+    "city": "Cleveland",
+    "Address": "17218 Tarkington Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 9, 2019",
+    "state": "New York",
+    "city": "Buffalo",
+    "Address": "2081 Niagara St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 9, 2019",
+    "state": "Tennessee",
+    "city": "Henning",
+    "Address": "265 N Main St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 8, 2019",
+    "state": "Washington",
+    "city": "White Swan",
+    "Address": "5151 Medicine Valley Rd",
+    "total_number_of_fatalities": 5,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 8, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "3500 block of W North Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 7, 2019",
+    "state": "Texas",
+    "city": "Austin",
+    "Address": "8220 TX-71",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 6, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "2500 block of N Lake Shore Dr",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 5, 2019",
+    "state": "California",
+    "city": "Santa Rosa",
+    "Address": "828 W 9th Street",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 1, 2019",
+    "state": "South Carolina",
+    "city": "Allendale",
+    "Address": "473 Main St S",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 1, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "300 block of East Chicago Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 1, 2019",
+    "state": "Virginia",
+    "city": "Portsmouth",
+    "Address": "1100 block of Mt Vernon Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 1, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "5600 block of West Madison St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 1, 2019",
+    "state": "Georgia",
+    "city": "Atlanta",
+    "Address": "12 Broad Street",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-June 1, 2019",
+    "state": "Georgia",
+    "city": "Macon",
+    "Address": "Suzanne Dr and Robinson Dr",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 31, 2019",
+    "state": "Virginia",
+    "city": "Virginia Beach",
+    "Address": "2405 Courthouse Drive",
+    "total_number_of_fatalities": 13,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 31, 2019",
+    "state": "California",
+    "city": "West Covina",
+    "Address": "306 N Hollow Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 30, 2019",
+    "state": "Illinois",
+    "city": "Robbins",
+    "Address": "14000 block of Grace Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 29, 2019",
+    "state": "Texas",
+    "city": "Cleveland",
+    "Address": "26311 TX-321",
+    "total_number_of_fatalities": 3,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 29, 2019",
+    "state": "Louisiana",
+    "city": "Reserve",
+    "Address": "300 block of Homewood Place",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 27, 2019",
+    "state": "Missouri",
+    "city": "Saint Louis",
+    "Address": "5900 block of Goodfellow Blvd",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 27, 2019",
+    "state": "District of Columbia",
+    "city": "Washington",
+    "Address": "1200 block of Sumner Rd SE",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 27, 2019",
+    "state": "New Jersey",
+    "city": "Trenton",
+    "Address": "100 block of Walnut St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 26, 2019",
+    "state": "District of Columbia",
+    "city": "Washington",
+    "Address": "3509 Wheeler Rd SE",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 26, 2019",
+    "state": "Virginia",
+    "city": "La Crosse",
+    "Address": "800 block of Alvis Road",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 26, 2019",
+    "state": "California",
+    "city": "Stockton",
+    "Address": "600 block of E Oak St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 25, 2019",
+    "state": "New Jersey",
+    "city": "Trenton",
+    "Address": "225 Brunswick Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 9,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 25, 2019",
+    "state": "Michigan",
+    "city": "Detroit",
+    "Address": "3400 block of Devonshire",
+    "total_number_of_fatalities": 3,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 25, 2019",
+    "state": "Virginia",
+    "city": "Chesapeake",
+    "Address": "Holly Cove Dr and Schooner Trail",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 9,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 25, 2019",
+    "state": "Maryland",
+    "city": "Baltimore",
+    "Address": "500 block of N Belnord Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 25, 2019",
+    "state": "Oklahoma",
+    "city": "Oklahoma City",
+    "Address": "N Kelley Ave and NE 26th St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 20, 2019",
+    "state": "Oklahoma",
+    "city": "Tulsa",
+    "Address": "8118 E 16th St",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 20, 2019",
+    "state": "Louisiana",
+    "city": "Alexandria",
+    "Address": "1900 block of Bacon Street",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 20, 2019",
+    "state": "Ohio",
+    "city": "Columbus",
+    "Address": "2424 Sullivant Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 19, 2019",
+    "state": "Oregon",
+    "city": "Portland",
+    "Address": "226 SE Madison St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 18, 2019",
+    "state": "Mississippi",
+    "city": "Cascilla",
+    "Address": "700 Leverette Ln",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 18, 2019",
+    "state": "Alabama",
+    "city": "Atmore",
+    "Address": "100 Martin Luther King Avenue",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 8,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 18, 2019",
+    "state": "Indiana",
+    "city": "Muncie",
+    "Address": "2410 W. Euclid Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 6,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 18, 2019",
+    "state": "California",
+    "city": "Long Beach",
+    "Address": "1616 West Pacific Coast Highway",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 18, 2019",
+    "state": "Iowa",
+    "city": "Cedar Rapids",
+    "Address": "70 Kirkwood Ct SW",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 18, 2019",
+    "state": "Nebraska",
+    "city": "Omaha",
+    "Address": "2825 Y St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 18, 2019",
+    "state": "North Carolina",
+    "city": "Winston Salem (Winston-salem)",
+    "Address": "4252 Cody Drive",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 17, 2019",
+    "state": "California",
+    "city": "Sacramento",
+    "Address": "7326 Stockton Blvd",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 16, 2019",
+    "state": "Ohio",
+    "city": "Cleveland",
+    "Address": "9500 Cardwell Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 15, 2019",
+    "state": "Louisiana",
+    "city": "Saint Rose",
+    "Address": "100 block of St. Rose Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 14, 2019",
+    "state": "California",
+    "city": "Los Angeles",
+    "Address": "1248 W 47th St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 13, 2019",
+    "state": "Louisiana",
+    "city": "New Orleans",
+    "Address": "2100 block of 4th St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 13, 2019",
+    "state": "Missouri",
+    "city": "Saint Louis",
+    "Address": "4047 Shreve Ave",
+    "total_number_of_fatalities": 4,
+    "number_of_victims_injured": 1,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 11, 2019",
+    "state": "Pennsylvania",
+    "city": "Effort",
+    "Address": "Toll Rd and Bayberry Rd",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 10, 2019",
+    "state": "Pennsylvania",
+    "city": "Philadelphia",
+    "Address": "1900 block of N Croskey St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 10, 2019",
+    "state": "Missouri",
+    "city": "Saint Louis",
+    "Address": "4000 block of Ashland Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 6,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 8, 2019",
+    "state": "Indiana",
+    "city": "Indianapolis",
+    "Address": "Roache St and Rader St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 7, 2019",
+    "state": "Colorado",
+    "city": "Littleton (Highlands Ranch)",
+    "Address": "8773 S Ridgeline Blvd",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 8,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 5, 2019",
+    "state": "New Jersey",
+    "city": "North Bergen",
+    "Address": "2033 45th Street",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 5, 2019",
+    "state": "California",
+    "city": "Oceano",
+    "Address": "1001 Cabrillo Hwy",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 6,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 4, 2019",
+    "state": "Missouri",
+    "city": "Saint Louis",
+    "Address": "Union Blvd and Northland Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 4, 2019",
+    "state": "Indiana",
+    "city": "Indianapolis",
+    "Address": "101 W Maryland St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 4, 2019",
+    "state": "California",
+    "city": "Stockton",
+    "Address": "5105 Holiday Dr",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 4, 2019",
+    "state": "Delaware",
+    "city": "Wilmington",
+    "Address": "W 27th St and Tatnall St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 3, 2019",
+    "state": "Texas",
+    "city": "Dallas",
+    "Address": "5400 Cedar Springs Rd",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 3, 2019",
+    "state": "Maryland",
+    "city": "Baltimore",
+    "Address": "1900 block of Ramsay St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 3, 2019",
+    "state": "Maryland",
+    "city": "Baltimore",
+    "Address": "2500 block of E Biddle St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-May 1, 2019",
+    "state": "Massachusetts",
+    "city": "Boston",
+    "Address": "32 Windermere Rd",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 30, 2019",
+    "state": "North Carolina",
+    "city": "Charlotte",
+    "Address": "9214 South Library Ln",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 28, 2019",
+    "state": "Tennessee",
+    "city": "Nashville",
+    "Address": "1407 Dr DB Todd Jr Blvd",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 7,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 28, 2019",
+    "state": "Alabama",
+    "city": "Birmingham",
+    "Address": "514 19th St Ensley",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 28, 2019",
+    "state": "Maryland",
+    "city": "Baltimore",
+    "Address": "2544 Edmondson Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 7,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 28, 2019",
+    "state": "Ohio",
+    "city": "West Chester",
+    "Address": "4637 Wyndtree Dr",
+    "total_number_of_fatalities": 4,
+    "number_of_victims_injured": 0,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 27, 2019",
+    "state": "Mississippi",
+    "city": "Jackson",
+    "Address": "700 block of Monterey St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 27, 2019",
+    "state": "California",
+    "city": "Poway",
+    "Address": "16934 Chabad Way",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 27, 2019",
+    "state": "California",
+    "city": "Los Angeles",
+    "Address": "700 N San Fernando Rd",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 6,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 21, 2019",
+    "state": "Pennsylvania",
+    "city": "Philadelphia",
+    "Address": "1500 block of South 31st St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 20, 2019",
+    "state": "Tennessee",
+    "city": "Memphis",
+    "Address": "761 Chestnut Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 20, 2019",
+    "state": "Texas",
+    "city": "Corpus Christi",
+    "Address": "2900 block of Sunrise Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 19, 2019",
+    "state": "Kansas",
+    "city": "Wichita",
+    "Address": "1628 S George Washington Blvd",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 18, 2019",
+    "state": "Kentucky",
+    "city": "Louisville",
+    "Address": "4000 block of Bells Ln",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 16, 2019",
+    "state": "Maryland",
+    "city": "Germantown",
+    "Address": "18700 block of Curry Powder Ln",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 14, 2019",
+    "state": "California",
+    "city": "Stockton",
+    "Address": "2539 E Main St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 14, 2019",
+    "state": "Florida",
+    "city": "Miami",
+    "Address": "NW 19th Ave and 60th St",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 14, 2019",
+    "state": "California",
+    "city": "Vallejo",
+    "Address": "100 block of Princeton Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 13, 2019",
+    "state": "California",
+    "city": "Moreno Valley",
+    "Address": "23500 block of Alessandro Blvd",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 12, 2019",
+    "state": "Illinois",
+    "city": "Carbondale",
+    "Address": "119 N Washington St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 11, 2019",
+    "state": "Maryland",
+    "city": "Baltimore",
+    "Address": "2200 block of Ruskin Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 11, 2019",
+    "state": "Arizona",
+    "city": "Phoenix",
+    "Address": "7112 W Minnezona Ave",
+    "total_number_of_fatalities": 3,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 11, 2019",
+    "state": "California",
+    "city": "Los Angeles",
+    "Address": "E 103rd St and S Main St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 9, 2019",
+    "state": "Missouri",
+    "city": "Kansas City",
+    "Address": "5339 Michigan Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 7, 2019",
+    "state": "Indiana",
+    "city": "Indianapolis",
+    "Address": "3600 block of Roosevelt Ave",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 7, 2019",
+    "state": "North Carolina",
+    "city": "Winston Salem (Winston-salem)",
+    "Address": "515 N Cherry St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 7,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 7, 2019",
+    "state": "Delaware",
+    "city": "Wilmington",
+    "Address": "940 N Pine St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 6,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 7, 2019",
+    "state": "Louisiana",
+    "city": "Shreveport",
+    "Address": "433 Flournoy Lucas Rd",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 6, 2019",
+    "state": "Florida",
+    "city": "Tallahassee",
+    "Address": "500 block of Kissimmee St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 6, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "6300 block of S Seeley Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 6,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 4, 2019",
+    "state": "Florida",
+    "city": "Panama City",
+    "Address": "100 block of Allen Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 4, 2019",
+    "state": "Georgia",
+    "city": "Stockbridge",
+    "Address": "300 block of Eagle Ct",
+    "total_number_of_fatalities": 3,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 2, 2019",
+    "state": "Mississippi",
+    "city": "Hermanville",
+    "Address": "13195 MS 18",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-April 2, 2019",
+    "state": "Kentucky",
+    "city": "Covington",
+    "Address": "300 block of 13th St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-March 31, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "500 block of N Hamlin Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-March 31, 2019",
+    "state": "Georgia",
+    "city": "Atlanta",
+    "Address": "3041 Landrum Dr SW",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-March 31, 2019",
+    "state": "South Carolina",
+    "city": "North Charleston",
+    "Address": "1900 block of Jacksonville Rd",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 7,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-March 28, 2019",
+    "state": "Maryland",
+    "city": "Baltimore",
+    "Address": "6200 block of Boston St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-March 25, 2019",
+    "state": "Nevada",
+    "city": "North Las Vegas",
+    "Address": "2400 block of W San Miguel St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-March 24, 2019",
+    "state": "California",
+    "city": "San Francisco",
+    "Address": "1300 Fillmore St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-March 24, 2019",
+    "state": "Arizona",
+    "city": "Phoenix",
+    "Address": "2202 W McDowell Rd",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 7,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-March 19, 2019",
+    "state": "Arizona",
+    "city": "Phoenix",
+    "Address": "8526 N 27th Ave",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-March 17, 2019",
+    "state": "Georgia",
+    "city": "Augusta",
+    "Address": "900 block of Broad St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-March 17, 2019",
+    "state": "Georgia",
+    "city": "Rochelle",
+    "Address": "Dennis St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-March 17, 2019",
+    "state": "Nevada",
+    "city": "Las Vegas",
+    "Address": "600 E Fremont St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-March 16, 2019",
+    "state": "New Jersey",
+    "city": "Camden",
+    "Address": "619 Ferry Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-March 15, 2019",
+    "state": "Alabama",
+    "city": "Mobile",
+    "Address": "515 Dauphin Island Pkwy",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-March 14, 2019",
+    "state": "Montana",
+    "city": "Missoula",
+    "Address": "5145 Airway Blvd",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-March 11, 2019",
+    "state": "New Jersey",
+    "city": "Paterson",
+    "Address": "291 12th Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-March 10, 2019",
+    "state": "Louisiana",
+    "city": "Shreveport",
+    "Address": "2700 block of San Jacinto Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-March 10, 2019",
+    "state": "Colorado",
+    "city": "Denver",
+    "Address": "15th St and Market St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-March 3, 2019",
+    "state": "California",
+    "city": "Oakland",
+    "Address": "316 14th St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-March 3, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "2900 block of E 79th St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 6,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-March 2, 2019",
+    "state": "Arkansas",
+    "city": "Pine Bluff",
+    "Address": "723 East 25th Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-February 28, 2019",
+    "state": "California",
+    "city": "Oakland",
+    "Address": "9755 Edes Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-February 22, 2019",
+    "state": "Alabama",
+    "city": "Birmingham",
+    "Address": "1100 block of Carnation Dr",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-February 21, 2019",
+    "state": "Maryland",
+    "city": "Baltimore",
+    "Address": "500 block of Bloom St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-February 21, 2019",
+    "state": "Kentucky",
+    "city": "Elizabethtown",
+    "Address": "600 N Miles St",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-February 21, 2019",
+    "state": "Texas",
+    "city": "Houston",
+    "Address": "12800 block of Eastbrook Dr",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-February 20, 2019",
+    "state": "Tennessee",
+    "city": "Covington",
+    "Address": "529 N College St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-February 17, 2019",
+    "state": "Texas",
+    "city": "Henderson",
+    "Address": "504 S Van Buren St",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-February 17, 2019",
+    "state": "Indiana",
+    "city": "Evansville",
+    "Address": "664 E Illinois St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-February 17, 2019",
+    "state": "Louisiana",
+    "city": "New Orleans",
+    "Address": "Tulane Ave and Elk Pl",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-February 16, 2019",
+    "state": "Mississippi",
+    "city": "Clinton",
+    "Address": "1214 Foxhill Dr",
+    "total_number_of_fatalities": 5,
+    "number_of_victims_injured": 0,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-February 15, 2019",
+    "state": "Illinois",
+    "city": "Aurora",
+    "Address": "641 Archer Ave",
+    "total_number_of_fatalities": 6,
+    "number_of_victims_injured": 6,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-February 11, 2019",
+    "state": "Texas",
+    "city": "Livingston",
+    "Address": "3628 FM 3126",
+    "total_number_of_fatalities": 5,
+    "number_of_victims_injured": 0,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-February 9, 2019",
+    "state": "Virginia",
+    "city": "Petersburg",
+    "Address": "109 Perry St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-February 6, 2019",
+    "state": "New York",
+    "city": "Brooklyn",
+    "Address": "1778 Fulton St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-February 5, 2019",
+    "state": "Texas",
+    "city": "San Antonio",
+    "Address": "538 Hot Wells Blvd",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-February 4, 2019",
+    "state": "District of Columbia",
+    "city": "Washington",
+    "Address": "2341 Pennsylvania Ave SE",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-February 4, 2019",
+    "state": "Louisiana",
+    "city": "Baton Rouge",
+    "Address": "4000 block of Topeka St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-February 3, 2019",
+    "state": "California",
+    "city": "Palm Springs",
+    "Address": "E Sunny Dunes Rd and El Placer Rd",
+    "total_number_of_fatalities": 4,
+    "number_of_victims_injured": 0,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-February 3, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "938 E 75th St",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-February 1, 2019",
+    "state": "California",
+    "city": "San Diego",
+    "Address": "6800 block of Springfield St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 28, 2019",
+    "state": "Texas",
+    "city": "Houston",
+    "Address": "7815 Harding St",
+    "total_number_of_fatalities": 2,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 27, 2019",
+    "state": "Alabama",
+    "city": "Birmingham",
+    "Address": "Avenue O and Warrior Rd",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 26, 2019",
+    "state": "Georgia",
+    "city": "Albany",
+    "Address": "300 block of W Roosevelt",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 26, 2019",
+    "state": "Indiana",
+    "city": "Indianapolis",
+    "Address": "2957 N Sherman Dr",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 26, 2019",
+    "state": "New Jersey",
+    "city": "Newark",
+    "Address": "612 Bergen St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 26, 2019",
+    "state": "Louisiana",
+    "city": "Gonzales",
+    "Address": "42350 Church Point Rd",
+    "total_number_of_fatalities": 5,
+    "number_of_victims_injured": 0,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 24, 2019",
+    "state": "Pennsylvania",
+    "city": "State College",
+    "Address": "1450 S Atherton St",
+    "total_number_of_fatalities": 4,
+    "number_of_victims_injured": 1,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 24, 2019",
+    "state": "Georgia",
+    "city": "Rockmart",
+    "Address": "319 Williamson St",
+    "total_number_of_fatalities": 4,
+    "number_of_victims_injured": 1,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 23, 2019",
+    "state": "Florida",
+    "city": "Sebring",
+    "Address": "1901 US 27 S",
+    "total_number_of_fatalities": 5,
+    "number_of_victims_injured": 0,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 20, 2019",
+    "state": "Florida",
+    "city": "Miami",
+    "Address": "26133 SW 139th Ave",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 19, 2019",
+    "state": "Pennsylvania",
+    "city": "Lebanon",
+    "Address": "1140 Church St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 19, 2019",
+    "state": "Texas",
+    "city": "Houston",
+    "Address": "7041 Sherman St",
+    "total_number_of_fatalities": 3,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 19, 2019",
+    "state": "South Carolina",
+    "city": "Gaffney",
+    "Address": "1435 Wilcox Ave",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 19, 2019",
+    "state": "Illinois",
+    "city": "Chicago",
+    "Address": "4400 block of W Madison St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 19, 2019",
+    "state": "Florida",
+    "city": "Jacksonville",
+    "Address": "11445 Brian Lakes Drive",
+    "total_number_of_fatalities": 3,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 17, 2019",
+    "state": "Kentucky",
+    "city": "Owensboro",
+    "Address": "940 Audubon Ave",
+    "total_number_of_fatalities": 3,
+    "number_of_victims_injured": 1,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 16, 2019",
+    "state": "Florida",
+    "city": "Jacksonville",
+    "Address": "Emerson St and Spring Park Rd",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 16, 2019",
+    "state": "California",
+    "city": "Palmdale",
+    "Address": "Ranch Center Dr and 40th St W",
+    "total_number_of_fatalities": 3,
+    "number_of_victims_injured": 1,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 15, 2019",
+    "state": "Arkansas",
+    "city": "Little Rock",
+    "Address": "5420 Baseline Rd",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 13, 2019",
+    "state": "Arizona",
+    "city": "Phoenix",
+    "Address": "2445 E Van Buren St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 6, 2019",
+    "state": "New Mexico",
+    "city": "Roswell",
+    "Address": "1300 block of W College Blvd",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 4, 2019",
+    "state": "Virginia",
+    "city": "Hurt",
+    "Address": "3197 Shula Dr",
+    "total_number_of_fatalities": 3,
+    "number_of_victims_injured": 2,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 4, 2019",
+    "state": "California",
+    "city": "Torrance",
+    "Address": "22501 Hawthorne Blvd",
+    "total_number_of_fatalities": 3,
+    "number_of_victims_injured": 4,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 3, 2019",
+    "state": "Arizona",
+    "city": "Yuma",
+    "Address": "3800 block of E. County 18½ St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 2, 2019",
+    "state": "Arkansas",
+    "city": "Jonesboro",
+    "Address": "3516 Galaxy St",
+    "total_number_of_fatalities": 1,
+    "number_of_victims_injured": 3,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 1, 2019",
+    "state": "South Carolina",
+    "city": "Columbia",
+    "Address": "1709 Decker Blvd",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+  {
+    "datasetid": "mass-shootings-in-america",
+    "recordid": "837e5117e561609614a7cb944bf1f9039cfbb107",
+    "fields":
+    {
+    "date": "2019-January 1, 2019",
+    "state": "Florida",
+    "city": "Tallahassee",
+    "Address": "2020 W Pensacola St",
+    "total_number_of_fatalities": 0,
+    "number_of_victims_injured": 5,
+    "descriptions": "N/A",
+        "type_of_gun_general":"N/A"
+  }
+
+},
+]
+
+}
+
+}
